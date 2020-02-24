@@ -1,0 +1,10 @@
+Titulo: programando com Rails
+Resumo: esse trabalho visa mostrar tal tal tal...
+Sumario
+Cap1
+Cap2
+Cap3
+...
+Referencias 
+...
+vinicius lindo
